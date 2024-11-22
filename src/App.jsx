@@ -7,12 +7,12 @@ export function App() {
     <section className="App">
       <TwitterFollowCard
         formatUserName={formatUserName}
-        userName="Darkyuyo"
+        userName="Darkyuyo123"
         name="Alfredo Llanos"
       />
       <TwitterFollowCard
         formatUserName={formatUserName}
-        userName="Darkyuyo"
+        userName="Darkyuyo123"
         name="Alfredo Llanos"
       />
     </section>
